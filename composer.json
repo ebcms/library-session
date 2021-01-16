@@ -1,0 +1,11 @@
+{
+    "name": "ebcms/session",
+    "description": "php session",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ebcms\\": "src/"
+        }
+    }
+}
